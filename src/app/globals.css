@@ -74,3 +74,18 @@
       @apply bg-background text-foreground;
     }
   }
+
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #fff; 
+      color: #000
+    }
+  }
+  
+  :root {
+    color-scheme: only light;
+  }
+  
+  #my-onlylight-element {
+    color-scheme: only light;
+  }
