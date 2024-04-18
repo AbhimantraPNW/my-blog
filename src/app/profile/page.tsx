@@ -41,7 +41,7 @@ const page = () => {
             <a
               rel="noopener"
               target="_blank"
-              href="https://github.com/iam-aydin"
+              href="https://github.com/AbhimantraPNW"
               className="flex w-64 items-center gap-2 rounded-lg bg-gray-800 p-5 text-white"
             >
               <img
@@ -56,7 +56,7 @@ const page = () => {
             <a
               rel="noopener"
               target="_blank"
-              href="https://www.linkedin.com/in/aydin-vesali-moghaddam-82a860275/"
+              href="https://www.linkedin.com/in/abhimantra-pandya-nandi-wardhana-648691287/"
               className="flex w-64 items-center gap-2 rounded-lg bg-gray-800 p-5 text-white"
             >
               <img
@@ -71,7 +71,7 @@ const page = () => {
             <a
               rel="noopener"
               target="_blank"
-              href="https://twitter.com/ichbinaydin"
+              href="https://twitter.com/pnw199431697"
               className="flex w-64 items-center gap-2 rounded-lg bg-gray-800 p-5 text-white"
             >
               <img
